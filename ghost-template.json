@@ -125,6 +125,10 @@
                     "value": "${APPLICATION_DOMAIN}"
                   },
                   {
+                    "name": "LIVEFYRE_SITEID",
+                    "value": "${LIVEFYRE_SITEID}"
+                  },
+                  {
                     "name": "MYSQL_USER",
                     "value": "${MYSQL_USER}"
                   },
